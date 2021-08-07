@@ -1,0 +1,32 @@
+﻿  project.cpp
+C:\Users\ahmed\source\repos\project\project.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(79,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(78,18): warning C4101: 'first': unreferenced local variable
+C:\Users\ahmed\source\repos\project\project.cpp(164,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(209,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(214,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(232,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(280,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(288,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(311,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(329,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(343,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(355,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(392,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(399,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(415,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(436,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(456,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(458,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(471,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(473,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ahmed\source\repos\project\project.cpp(51): warning C4715: 'Hash': not all control paths return a value
+  project.vcxproj -> C:\Users\ahmed\source\repos\project\Debug\project.exe
